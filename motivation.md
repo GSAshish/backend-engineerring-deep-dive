@@ -1,0 +1,2 @@
+- To understand backend engineering quirks. 
+ - To be a better engineer
